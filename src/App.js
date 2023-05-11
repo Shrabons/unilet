@@ -1,9 +1,11 @@
+import Routes from "./routes";
 
 
 
 function App() {
   return (
-   <h1>react project</h1>
+   <Routes />
+   
   )
 }
 
